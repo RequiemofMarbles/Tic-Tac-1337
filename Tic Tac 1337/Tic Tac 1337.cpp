@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "../../../../Downloads/functions.h"
+#include "functions.h"
 
 int main()
 {
